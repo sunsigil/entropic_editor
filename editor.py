@@ -40,7 +40,6 @@ if __name__ == "__main__":
 
 	AssetManager.initialize([
 		env["game_path"]/"sprites",
-		env["game_path"]/"sounds",
 		env["game_path"]/"meshes",
 		env["game_path"]/"data"
 	]);
